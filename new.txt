@@ -4,4 +4,8 @@ NEW FILE -YSSA
 
 cj
 
+<<<<<<< HEAD
 cj
+=======
+qwe
+>>>>>>> testing
