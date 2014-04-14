@@ -1,9 +1,0 @@
-CJ
-FINAL
-cj
-
-<<<<<<< HEAD
-cj
-=======
-qwe
->>>>>>> testing
